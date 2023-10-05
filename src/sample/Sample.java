@@ -9,10 +9,10 @@ public class Sample {
 	}
 
 	public static void cloneCommand() {
-		System.out.println("git clone repo_url is the command to clone the repository!");
+		System.out.println("git clone repo_url is the command to clone the repo!");
 	}
 
 	public static void pushCommand() {
-		System.out.println("git push origin repo_url is the command to push the repository!");
+		System.out.println("git push origin repo_url is the command to push the repo!");
 	}
 }
