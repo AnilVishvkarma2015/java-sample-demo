@@ -4,3 +4,4 @@ git clone
 git checkout
 git log
 REMOTE REPO CHANGES
+LOCAL REPO CHANGES
