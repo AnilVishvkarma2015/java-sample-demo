@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println("This is the first statement!");
 		cloneCommand();
 		pushCommand();
+		pullCommand();
 	}
 
 	public static void cloneCommand() {
@@ -14,8 +15,9 @@ public class Sample {
 
 	public static void pushCommand() {
 		System.out.println("git push remote repo_url is the command to push the repo!");
-		System.out.println("git push remote repo_url is the command to push the repo!");
-		System.out.println("git push remote repo_url is the command to push the repo!");
-		
+	}
+
+	public static void pullCommand() {
+		System.out.println("git pull remote repo_url is the command to push the repo!");
 	}
 }
