@@ -4,3 +4,4 @@ git clone
 git checkout
 git branch
 git log
+git remote
