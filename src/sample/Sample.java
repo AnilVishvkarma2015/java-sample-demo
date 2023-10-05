@@ -14,5 +14,8 @@ public class Sample {
 
 	public static void pushCommand() {
 		System.out.println("git push remote repo_url is the command to push the repo!");
+		System.out.println("git push remote repo_url is the command to push the repo!");
+		System.out.println("git push remote repo_url is the command to push the repo!");
+		
 	}
 }
